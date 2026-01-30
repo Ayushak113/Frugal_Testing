@@ -1,0 +1,790 @@
+{
+  "general": {
+    "easy": [
+      {
+        "id": "gen_easy_1",
+        "question": "What is the capital of France?",
+        "options": ["London", "Berlin", "Paris", "Madrid"],
+        "correct_answer": "Paris"
+      },
+      {
+        "id": "gen_easy_2",
+        "question": "What is 2 + 2?",
+        "options": ["3", "4", "5", "6"],
+        "correct_answer": "4"
+      },
+      {
+        "id": "gen_easy_3",
+        "question": "Which planet is closest to the Sun?",
+        "options": ["Venus", "Mercury", "Earth", "Mars"],
+        "correct_answer": "Mercury"
+      },
+      {
+        "id": "gen_easy_4",
+        "question": "What is the largest ocean on Earth?",
+        "options": ["Atlantic", "Indian", "Arctic", "Pacific"],
+        "correct_answer": "Pacific"
+      },
+      {
+        "id": "gen_easy_5",
+        "question": "How many continents are there?",
+        "options": ["5", "6", "7", "8"],
+        "correct_answer": "7"
+      },
+      {
+        "id": "gen_easy_6",
+        "question": "What is the chemical symbol for water?",
+        "options": ["H2O", "CO2", "O2", "NaCl"],
+        "correct_answer": "H2O"
+      },
+      {
+        "id": "gen_easy_7",
+        "question": "Which animal is known as the King of the Jungle?",
+        "options": ["Tiger", "Lion", "Elephant", "Bear"],
+        "correct_answer": "Lion"
+      },
+      {
+        "id": "gen_easy_8",
+        "question": "What is the smallest prime number?",
+        "options": ["0", "1", "2", "3"],
+        "correct_answer": "2"
+      },
+      {
+        "id": "gen_easy_9",
+        "question": "In which year did World War II end?",
+        "options": ["1943", "1944", "1945", "1946"],
+        "correct_answer": "1945"
+      },
+      {
+        "id": "gen_easy_10",
+        "question": "What is the main ingredient in bread?",
+        "options": ["Rice", "Wheat", "Corn", "Barley"],
+        "correct_answer": "Wheat"
+      },
+      {
+        "id": "gen_easy_11",
+        "question": "Which is the longest river in the world?",
+        "options": ["Amazon", "Nile", "Mississippi", "Yangtze"],
+        "correct_answer": "Nile"
+      },
+      {
+        "id": "gen_easy_12",
+        "question": "What do bees make?",
+        "options": ["Milk", "Honey", "Butter", "Cheese"],
+        "correct_answer": "Honey"
+      }
+    ],
+    "medium": [
+      {
+        "id": "gen_med_1",
+        "question": "Who painted the Mona Lisa?",
+        "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Michelangelo"],
+        "correct_answer": "Leonardo da Vinci"
+      },
+      {
+        "id": "gen_med_2",
+        "question": "What is the square root of 144?",
+        "options": ["10", "11", "12", "13"],
+        "correct_answer": "12"
+      },
+      {
+        "id": "gen_med_3",
+        "question": "Which gas makes up most of the Earth's atmosphere?",
+        "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Argon"],
+        "correct_answer": "Nitrogen"
+      },
+      {
+        "id": "gen_med_4",
+        "question": "In which continent is the Sahara Desert located?",
+        "options": ["Asia", "Africa", "Australia", "South America"],
+        "correct_answer": "Africa"
+      },
+      {
+        "id": "gen_med_5",
+        "question": "What is the speed of light in vacuum (approximately)?",
+        "options": ["300,000 km/s", "150,000 km/s", "450,000 km/s", "600,000 km/s"],
+        "correct_answer": "300,000 km/s"
+      },
+      {
+        "id": "gen_med_6",
+        "question": "Who wrote 'Romeo and Juliet'?",
+        "options": ["Charles Dickens", "William Shakespeare", "Jane Austen", "Mark Twain"],
+        "correct_answer": "William Shakespeare"
+      },
+      {
+        "id": "gen_med_7",
+        "question": "What is the largest planet in our solar system?",
+        "options": ["Saturn", "Jupiter", "Neptune", "Uranus"],
+        "correct_answer": "Jupiter"
+      },
+      {
+        "id": "gen_med_8",
+        "question": "How many bones are in an adult human body?",
+        "options": ["196", "206", "216", "226"],
+        "correct_answer": "206"
+      },
+      {
+        "id": "gen_med_9",
+        "question": "What is the chemical symbol for gold?",
+        "options": ["Go", "Gd", "Au", "Ag"],
+        "correct_answer": "Au"
+      },
+      {
+        "id": "gen_med_10",
+        "question": "Which country is home to the kangaroo?",
+        "options": ["New Zealand", "Australia", "South Africa", "Brazil"],
+        "correct_answer": "Australia"
+      },
+      {
+        "id": "gen_med_11",
+        "question": "What is the hardest natural substance on Earth?",
+        "options": ["Gold", "Iron", "Diamond", "Platinum"],
+        "correct_answer": "Diamond"
+      },
+      {
+        "id": "gen_med_12",
+        "question": "In which year did the first man land on the moon?",
+        "options": ["1967", "1968", "1969", "1970"],
+        "correct_answer": "1969"
+      }
+    ],
+    "hard": [
+      {
+        "id": "gen_hard_1",
+        "question": "What is the approximate value of Pi (π) to two decimal places?",
+        "options": ["3.12", "3.14", "3.16", "3.18"],
+        "correct_answer": "3.14"
+      },
+      {
+        "id": "gen_hard_2",
+        "question": "Who discovered penicillin?",
+        "options": ["Louis Pasteur", "Alexander Fleming", "Marie Curie", "Robert Koch"],
+        "correct_answer": "Alexander Fleming"
+      },
+      {
+        "id": "gen_hard_3",
+        "question": "What is the molecular formula for glucose?",
+        "options": ["C6H12O6", "C6H10O5", "C5H12O6", "C6H14O6"],
+        "correct_answer": "C6H12O6"
+      },
+      {
+        "id": "gen_hard_4",
+        "question": "Which war was fought between 1950 and 1953?",
+        "options": ["Vietnam War", "Korean War", "World War II", "Gulf War"],
+        "correct_answer": "Korean War"
+      },
+      {
+        "id": "gen_hard_5",
+        "question": "What is the smallest unit of matter?",
+        "options": ["Molecule", "Atom", "Electron", "Proton"],
+        "correct_answer": "Atom"
+      },
+      {
+        "id": "gen_hard_6",
+        "question": "Who composed 'The Four Seasons'?",
+        "options": ["Mozart", "Beethoven", "Vivaldi", "Bach"],
+        "correct_answer": "Vivaldi"
+      },
+      {
+        "id": "gen_hard_7",
+        "question": "What is the boiling point of water at sea level in Celsius?",
+        "options": ["90°C", "95°C", "100°C", "105°C"],
+        "correct_answer": "100°C"
+      },
+      {
+        "id": "gen_hard_8",
+        "question": "Which element has the atomic number 1?",
+        "options": ["Helium", "Hydrogen", "Lithium", "Carbon"],
+        "correct_answer": "Hydrogen"
+      },
+      {
+        "id": "gen_hard_9",
+        "question": "What is the capital of Australia?",
+        "options": ["Sydney", "Melbourne", "Canberra", "Perth"],
+        "correct_answer": "Canberra"
+      },
+      {
+        "id": "gen_hard_10",
+        "question": "How many chambers does a human heart have?",
+        "options": ["2", "3", "4", "5"],
+        "correct_answer": "4"
+      },
+      {
+        "id": "gen_hard_11",
+        "question": "What is the derivative of x²?",
+        "options": ["x", "2x", "x²", "2x²"],
+        "correct_answer": "2x"
+      },
+      {
+        "id": "gen_hard_12",
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+        "correct_answer": "Mars"
+      }
+    ]
+  },
+  "science": {
+    "easy": [
+      {
+        "id": "sci_easy_1",
+        "question": "What is H2O commonly known as?",
+        "options": ["Hydrogen", "Water", "Oxygen", "Salt"],
+        "correct_answer": "Water"
+      },
+      {
+        "id": "sci_easy_2",
+        "question": "How many legs does a spider have?",
+        "options": ["6", "8", "10", "12"],
+        "correct_answer": "8"
+      },
+      {
+        "id": "sci_easy_3",
+        "question": "What is the closest star to Earth?",
+        "options": ["Proxima Centauri", "The Sun", "Sirius", "Alpha Centauri"],
+        "correct_answer": "The Sun"
+      },
+      {
+        "id": "sci_easy_4",
+        "question": "What do plants need to make food?",
+        "options": ["Water only", "Sunlight only", "Sunlight and Water", "Soil only"],
+        "correct_answer": "Sunlight and Water"
+      },
+      {
+        "id": "sci_easy_5",
+        "question": "Which sense do we use to taste?",
+        "options": ["Eyes", "Nose", "Tongue", "Ears"],
+        "correct_answer": "Tongue"
+      },
+      {
+        "id": "sci_easy_6",
+        "question": "What is the hardest part of the human body?",
+        "options": ["Bone", "Tooth", "Nail", "Skull"],
+        "correct_answer": "Tooth"
+      },
+      {
+        "id": "sci_easy_7",
+        "question": "How many planets are in our solar system?",
+        "options": ["7", "8", "9", "10"],
+        "correct_answer": "8"
+      },
+      {
+        "id": "sci_easy_8",
+        "question": "What is the state of water at 0°C?",
+        "options": ["Liquid", "Solid", "Gas", "Plasma"],
+        "correct_answer": "Solid"
+      },
+      {
+        "id": "sci_easy_9",
+        "question": "Which animal is a mammal?",
+        "options": ["Fish", "Bird", "Dolphin", "Reptile"],
+        "correct_answer": "Dolphin"
+      },
+      {
+        "id": "sci_easy_10",
+        "question": "What gas do humans breathe out?",
+        "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Helium"],
+        "correct_answer": "Carbon Dioxide"
+      }
+    ],
+    "medium": [
+      {
+        "id": "sci_med_1",
+        "question": "What is the process by which plants make food called?",
+        "options": ["Respiration", "Photosynthesis", "Digestion", "Circulation"],
+        "correct_answer": "Photosynthesis"
+      },
+      {
+        "id": "sci_med_2",
+        "question": "What is the largest organ in the human body?",
+        "options": ["Liver", "Lungs", "Skin", "Intestines"],
+        "correct_answer": "Skin"
+      },
+      {
+        "id": "sci_med_3",
+        "question": "What is the unit of electric current?",
+        "options": ["Volt", "Ampere", "Watt", "Ohm"],
+        "correct_answer": "Ampere"
+      },
+      {
+        "id": "sci_med_4",
+        "question": "Which blood type is known as the universal donor?",
+        "options": ["A", "B", "AB", "O"],
+        "correct_answer": "O"
+      },
+      {
+        "id": "sci_med_5",
+        "question": "What is the speed of sound in air at room temperature?",
+        "options": ["300 m/s", "330 m/s", "350 m/s", "400 m/s"],
+        "correct_answer": "330 m/s"
+      },
+      {
+        "id": "sci_med_6",
+        "question": "What is the main component of the Sun?",
+        "options": ["Helium", "Hydrogen", "Oxygen", "Carbon"],
+        "correct_answer": "Hydrogen"
+      },
+      {
+        "id": "sci_med_7",
+        "question": "How many chromosomes do humans have?",
+        "options": ["42", "44", "46", "48"],
+        "correct_answer": "46"
+      },
+      {
+        "id": "sci_med_8",
+        "question": "What is the chemical formula for table salt?",
+        "options": ["NaCl", "KCl", "CaCl2", "MgCl2"],
+        "correct_answer": "NaCl"
+      },
+      {
+        "id": "sci_med_9",
+        "question": "Which planet has the most moons?",
+        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "correct_answer": "Saturn"
+      },
+      {
+        "id": "sci_med_10",
+        "question": "What is the freezing point of water in Fahrenheit?",
+        "options": ["30°F", "32°F", "34°F", "36°F"],
+        "correct_answer": "32°F"
+      }
+    ],
+    "hard": [
+      {
+        "id": "sci_hard_1",
+        "question": "What is the Heisenberg Uncertainty Principle related to?",
+        "options": ["Thermodynamics", "Quantum Mechanics", "Relativity", "Electromagnetism"],
+        "correct_answer": "Quantum Mechanics"
+      },
+      {
+        "id": "sci_hard_2",
+        "question": "What is the half-life of Carbon-14?",
+        "options": ["5,730 years", "10,000 years", "15,000 years", "20,000 years"],
+        "correct_answer": "5,730 years"
+      },
+      {
+        "id": "sci_hard_3",
+        "question": "Which subatomic particle has no charge?",
+        "options": ["Proton", "Electron", "Neutron", "Positron"],
+        "correct_answer": "Neutron"
+      },
+      {
+        "id": "sci_hard_4",
+        "question": "What is the pH of pure water?",
+        "options": ["6", "7", "8", "9"],
+        "correct_answer": "7"
+      },
+      {
+        "id": "sci_hard_5",
+        "question": "What is the process of cell division called?",
+        "options": ["Meiosis", "Mitosis", "Osmosis", "Diffusion"],
+        "correct_answer": "Mitosis"
+      },
+      {
+        "id": "sci_hard_6",
+        "question": "What is the strongest force in nature?",
+        "options": ["Gravitational", "Electromagnetic", "Weak Nuclear", "Strong Nuclear"],
+        "correct_answer": "Strong Nuclear"
+      },
+      {
+        "id": "sci_hard_7",
+        "question": "What is the speed of light in meters per second?",
+        "options": ["299,792,458 m/s", "300,000,000 m/s", "299,000,000 m/s", "301,000,000 m/s"],
+        "correct_answer": "299,792,458 m/s"
+      },
+      {
+        "id": "sci_hard_8",
+        "question": "What is the most abundant gas in Earth's atmosphere?",
+        "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Argon"],
+        "correct_answer": "Nitrogen"
+      },
+      {
+        "id": "sci_hard_9",
+        "question": "What is the formula for kinetic energy?",
+        "options": ["mv²", "½mv²", "mgh", "Fd"],
+        "correct_answer": "½mv²"
+      },
+      {
+        "id": "sci_hard_10",
+        "question": "Which layer of the atmosphere contains the ozone layer?",
+        "options": ["Troposphere", "Stratosphere", "Mesosphere", "Thermosphere"],
+        "correct_answer": "Stratosphere"
+      }
+    ]
+  },
+  "history": {
+    "easy": [
+      {
+        "id": "hist_easy_1",
+        "question": "In which year did World War II end?",
+        "options": ["1943", "1944", "1945", "1946"],
+        "correct_answer": "1945"
+      },
+      {
+        "id": "hist_easy_2",
+        "question": "Who was the first President of the United States?",
+        "options": ["Thomas Jefferson", "George Washington", "John Adams", "Benjamin Franklin"],
+        "correct_answer": "George Washington"
+      },
+      {
+        "id": "hist_easy_3",
+        "question": "Which ancient civilization built the pyramids?",
+        "options": ["Greeks", "Romans", "Egyptians", "Mayans"],
+        "correct_answer": "Egyptians"
+      },
+      {
+        "id": "hist_easy_4",
+        "question": "In which year did the Titanic sink?",
+        "options": ["1910", "1912", "1914", "1916"],
+        "correct_answer": "1912"
+      },
+      {
+        "id": "hist_easy_5",
+        "question": "Who painted the Sistine Chapel ceiling?",
+        "options": ["Leonardo da Vinci", "Michelangelo", "Raphael", "Donatello"],
+        "correct_answer": "Michelangelo"
+      },
+      {
+        "id": "hist_easy_6",
+        "question": "Which war was fought between 1861 and 1865?",
+        "options": ["World War I", "American Civil War", "Revolutionary War", "World War II"],
+        "correct_answer": "American Civil War"
+      },
+      {
+        "id": "hist_easy_7",
+        "question": "Who discovered America in 1492?",
+        "options": ["Vasco da Gama", "Christopher Columbus", "Ferdinand Magellan", "Marco Polo"],
+        "correct_answer": "Christopher Columbus"
+      },
+      {
+        "id": "hist_easy_8",
+        "question": "Which empire was ruled by Julius Caesar?",
+        "options": ["Greek", "Roman", "Byzantine", "Ottoman"],
+        "correct_answer": "Roman"
+      },
+      {
+        "id": "hist_easy_9",
+        "question": "In which year did the Berlin Wall fall?",
+        "options": ["1987", "1989", "1991", "1993"],
+        "correct_answer": "1989"
+      },
+      {
+        "id": "hist_easy_10",
+        "question": "Who was known as the Iron Lady?",
+        "options": ["Indira Gandhi", "Margaret Thatcher", "Golda Meir", "Angela Merkel"],
+        "correct_answer": "Margaret Thatcher"
+      }
+    ],
+    "medium": [
+      {
+        "id": "hist_med_1",
+        "question": "Which battle marked the end of Napoleon's rule?",
+        "options": ["Battle of Austerlitz", "Battle of Waterloo", "Battle of Trafalgar", "Battle of Borodino"],
+        "correct_answer": "Battle of Waterloo"
+      },
+      {
+        "id": "hist_med_2",
+        "question": "In which year did the French Revolution begin?",
+        "options": ["1787", "1789", "1791", "1793"],
+        "correct_answer": "1789"
+      },
+      {
+        "id": "hist_med_3",
+        "question": "Who was the leader of the Soviet Union during World War II?",
+        "options": ["Lenin", "Stalin", "Khrushchev", "Brezhnev"],
+        "correct_answer": "Stalin"
+      },
+      {
+        "id": "hist_med_4",
+        "question": "Which dynasty ruled China for over 400 years?",
+        "options": ["Tang", "Song", "Ming", "Qing"],
+        "correct_answer": "Ming"
+      },
+      {
+        "id": "hist_med_5",
+        "question": "What was the name of the ship that brought the Pilgrims to America?",
+        "options": ["Santa Maria", "Mayflower", "Nina", "Pinta"],
+        "correct_answer": "Mayflower"
+      },
+      {
+        "id": "hist_med_6",
+        "question": "In which year did India gain independence?",
+        "options": ["1945", "1946", "1947", "1948"],
+        "correct_answer": "1947"
+      },
+      {
+        "id": "hist_med_7",
+        "question": "Who wrote 'The Communist Manifesto'?",
+        "options": ["Lenin", "Marx and Engels", "Stalin", "Trotsky"],
+        "correct_answer": "Marx and Engels"
+      },
+      {
+        "id": "hist_med_8",
+        "question": "Which ancient city was destroyed by a volcanic eruption?",
+        "options": ["Athens", "Sparta", "Pompeii", "Rome"],
+        "correct_answer": "Pompeii"
+      },
+      {
+        "id": "hist_med_9",
+        "question": "In which year did the Russian Revolution occur?",
+        "options": ["1915", "1916", "1917", "1918"],
+        "correct_answer": "1917"
+      },
+      {
+        "id": "hist_med_10",
+        "question": "Who was the first woman to win a Nobel Prize?",
+        "options": ["Rosalind Franklin", "Marie Curie", "Dorothy Hodgkin", "Barbara McClintock"],
+        "correct_answer": "Marie Curie"
+      }
+    ],
+    "hard": [
+      {
+        "id": "hist_hard_1",
+        "question": "Which treaty ended World War I?",
+        "options": ["Treaty of Versailles", "Treaty of Paris", "Treaty of Trianon", "Treaty of Brest-Litovsk"],
+        "correct_answer": "Treaty of Versailles"
+      },
+      {
+        "id": "hist_hard_2",
+        "question": "Who was the last Tsar of Russia?",
+        "options": ["Alexander II", "Alexander III", "Nicholas I", "Nicholas II"],
+        "correct_answer": "Nicholas II"
+      },
+      {
+        "id": "hist_hard_3",
+        "question": "In which year did the Battle of Hastings take place?",
+        "options": ["1044", "1066", "1088", "1100"],
+        "correct_answer": "1066"
+      },
+      {
+        "id": "hist_hard_4",
+        "question": "Which empire was known as the 'Sick Man of Europe'?",
+        "options": ["Austro-Hungarian", "Ottoman", "Russian", "Byzantine"],
+        "correct_answer": "Ottoman"
+      },
+      {
+        "id": "hist_hard_5",
+        "question": "Who was the architect of the Holocaust?",
+        "options": ["Goebbels", "Himmler", "Hitler", "Goering"],
+        "correct_answer": "Himmler"
+      },
+      {
+        "id": "hist_hard_6",
+        "question": "In which year did the Renaissance begin in Italy?",
+        "options": ["1300s", "1400s", "1500s", "1600s"],
+        "correct_answer": "1400s"
+      },
+      {
+        "id": "hist_hard_7",
+        "question": "Which war lasted for 100 years?",
+        "options": ["Hundred Years' War", "Thirty Years' War", "Peloponnesian War", "Punic Wars"],
+        "correct_answer": "Hundred Years' War"
+      },
+      {
+        "id": "hist_hard_8",
+        "question": "Who was the first Emperor of Rome?",
+        "options": ["Julius Caesar", "Augustus", "Nero", "Caligula"],
+        "correct_answer": "Augustus"
+      },
+      {
+        "id": "hist_hard_9",
+        "question": "In which year did the Black Death reach Europe?",
+        "options": ["1346", "1350", "1360", "1370"],
+        "correct_answer": "1346"
+      },
+      {
+        "id": "hist_hard_10",
+        "question": "Which civilization invented the wheel?",
+        "options": ["Egyptians", "Mesopotamians", "Greeks", "Chinese"],
+        "correct_answer": "Mesopotamians"
+      }
+    ]
+  },
+  "technology": {
+    "easy": [
+      {
+        "id": "tech_easy_1",
+        "question": "What does CPU stand for?",
+        "options": ["Central Processing Unit", "Computer Personal Unit", "Central Program Utility", "Computer Processing Unit"],
+        "correct_answer": "Central Processing Unit"
+      },
+      {
+        "id": "tech_easy_2",
+        "question": "What does HTML stand for?",
+        "options": ["HyperText Markup Language", "HighText Markup Language", "HyperText Making Language", "HighText Making Language"],
+        "correct_answer": "HyperText Markup Language"
+      },
+      {
+        "id": "tech_easy_3",
+        "question": "Which company created the iPhone?",
+        "options": ["Microsoft", "Google", "Apple", "Samsung"],
+        "correct_answer": "Apple"
+      },
+      {
+        "id": "tech_easy_4",
+        "question": "What is the most popular web browser?",
+        "options": ["Firefox", "Chrome", "Safari", "Edge"],
+        "correct_answer": "Chrome"
+      },
+      {
+        "id": "tech_easy_5",
+        "question": "What does URL stand for?",
+        "options": ["Uniform Resource Locator", "Universal Resource Locator", "Uniform Resource Link", "Universal Resource Link"],
+        "correct_answer": "Uniform Resource Locator"
+      },
+      {
+        "id": "tech_easy_6",
+        "question": "What is 1 byte equal to?",
+        "options": ["4 bits", "8 bits", "16 bits", "32 bits"],
+        "correct_answer": "8 bits"
+      },
+      {
+        "id": "tech_easy_7",
+        "question": "Which programming language is known for web development?",
+        "options": ["Java", "Python", "JavaScript", "C++"],
+        "correct_answer": "JavaScript"
+      },
+      {
+        "id": "tech_easy_8",
+        "question": "What does RAM stand for?",
+        "options": ["Random Access Memory", "Read Access Memory", "Random Available Memory", "Read Available Memory"],
+        "correct_answer": "Random Access Memory"
+      },
+      {
+        "id": "tech_easy_9",
+        "question": "What is the file extension for a JavaScript file?",
+        "options": [".java", ".js", ".javascript", ".script"],
+        "correct_answer": ".js"
+      },
+      {
+        "id": "tech_easy_10",
+        "question": "Which company developed the Android operating system?",
+        "options": ["Apple", "Microsoft", "Google", "Samsung"],
+        "correct_answer": "Google"
+      }
+    ],
+    "medium": [
+      {
+        "id": "tech_med_1",
+        "question": "What does API stand for?",
+        "options": ["Application Programming Interface", "Application Program Interface", "Advanced Programming Interface", "Application Process Interface"],
+        "correct_answer": "Application Programming Interface"
+      },
+      {
+        "id": "tech_med_2",
+        "question": "What is the time complexity of binary search?",
+        "options": ["O(n)", "O(log n)", "O(n²)", "O(1)"],
+        "correct_answer": "O(log n)"
+      },
+      {
+        "id": "tech_med_3",
+        "question": "Which protocol is used for secure web communication?",
+        "options": ["HTTP", "FTP", "HTTPS", "SMTP"],
+        "correct_answer": "HTTPS"
+      },
+      {
+        "id": "tech_med_4",
+        "question": "What does SQL stand for?",
+        "options": ["Structured Query Language", "Simple Query Language", "Standard Query Language", "System Query Language"],
+        "correct_answer": "Structured Query Language"
+      },
+      {
+        "id": "tech_med_5",
+        "question": "What is the default port for HTTP?",
+        "options": ["80", "443", "8080", "3000"],
+        "correct_answer": "80"
+      },
+      {
+        "id": "tech_med_6",
+        "question": "Which data structure follows LIFO principle?",
+        "options": ["Queue", "Stack", "Array", "Linked List"],
+        "correct_answer": "Stack"
+      },
+      {
+        "id": "tech_med_7",
+        "question": "What does CSS stand for?",
+        "options": ["Computer Style Sheets", "Cascading Style Sheets", "Creative Style Sheets", "Colorful Style Sheets"],
+        "correct_answer": "Cascading Style Sheets"
+      },
+      {
+        "id": "tech_med_8",
+        "question": "What is the maximum value of a 32-bit integer?",
+        "options": ["2,147,483,647", "4,294,967,295", "1,073,741,824", "2,147,483,648"],
+        "correct_answer": "2,147,483,647"
+      },
+      {
+        "id": "tech_med_9",
+        "question": "Which algorithm is used for sorting in JavaScript's sort() method?",
+        "options": ["Quick Sort", "Merge Sort", "Bubble Sort", "Implementation dependent"],
+        "correct_answer": "Implementation dependent"
+      },
+      {
+        "id": "tech_med_10",
+        "question": "What does REST stand for?",
+        "options": ["Representational State Transfer", "Remote State Transfer", "Representational System Transfer", "Remote System Transfer"],
+        "correct_answer": "Representational State Transfer"
+      }
+    ],
+    "hard": [
+      {
+        "id": "tech_hard_1",
+        "question": "What is the time complexity of quicksort in the average case?",
+        "options": ["O(n)", "O(n log n)", "O(n²)", "O(log n)"],
+        "correct_answer": "O(n log n)"
+      },
+      {
+        "id": "tech_hard_2",
+        "question": "What does MVC stand for in software architecture?",
+        "options": ["Model View Controller", "Multiple View Controller", "Model View Component", "Multiple View Component"],
+        "correct_answer": "Model View Controller"
+      },
+      {
+        "id": "tech_hard_3",
+        "question": "What is the maximum length of an IPv4 address?",
+        "options": ["32 bits", "64 bits", "128 bits", "256 bits"],
+        "correct_answer": "32 bits"
+      },
+      {
+        "id": "tech_hard_4",
+        "question": "Which HTTP method is idempotent?",
+        "options": ["POST", "PUT", "PATCH", "DELETE"],
+        "correct_answer": "PUT"
+      },
+      {
+        "id": "tech_hard_5",
+        "question": "What is the complexity of finding an element in a hash table?",
+        "options": ["O(n)", "O(log n)", "O(1)", "O(n²)"],
+        "correct_answer": "O(1)"
+      },
+      {
+        "id": "tech_hard_6",
+        "question": "What does DNS stand for?",
+        "options": ["Domain Name System", "Dynamic Name System", "Domain Network System", "Dynamic Network System"],
+        "correct_answer": "Domain Name System"
+      },
+      {
+        "id": "tech_hard_7",
+        "question": "What is the default port for HTTPS?",
+        "options": ["80", "443", "8080", "8443"],
+        "correct_answer": "443"
+      },
+      {
+        "id": "tech_hard_8",
+        "question": "Which sorting algorithm has the best worst-case time complexity?",
+        "options": ["Quick Sort", "Merge Sort", "Bubble Sort", "Insertion Sort"],
+        "correct_answer": "Merge Sort"
+      },
+      {
+        "id": "tech_hard_9",
+        "question": "What does JSON stand for?",
+        "options": ["JavaScript Object Notation", "Java Object Notation", "JavaScript Online Notation", "Java Online Notation"],
+        "correct_answer": "JavaScript Object Notation"
+      },
+      {
+        "id": "tech_hard_10",
+        "question": "What is the maximum number of connections in a TCP handshake?",
+        "options": ["2", "3", "4", "5"],
+        "correct_answer": "3"
+      }
+    ]
+  }
+}
